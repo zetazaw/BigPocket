@@ -5,4 +5,8 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="transaction_add">Add</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_category">Category</string>
+    <string name="hint_amount">Amount</string>
 </resources>

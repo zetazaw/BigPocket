@@ -17,4 +17,18 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <style name="EditTextDescription">
+        <item name="android:maxLength">150</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:hint">@string/hint_description</item>
+    </style>
+
+    <style name="EditTextCategory">
+        <item name="android:maxLength">150</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:hint">@string/hint_category</item>
+    </style>
+
 </resources>
